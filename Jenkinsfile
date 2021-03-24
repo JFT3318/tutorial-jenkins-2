@@ -19,7 +19,7 @@ node {
    checkout scm
    
     // ------------------------------------
-   // -- ETAPA: Sonarqube24
+   // -- ETAPA: Sonarqube2403
    // ------------------------------------
     stage 'Sonarqube'
     echo '*executing ... Sonarqube*'
